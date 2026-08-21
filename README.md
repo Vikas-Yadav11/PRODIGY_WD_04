@@ -1,7 +1,5 @@
 Developer Portfolio Website
-
 This is my personal developer portfolio website created to showcase my skills, projects, certifications, resume, and coding profiles.
-
 Features
 Responsive and modern design
 About Me section
